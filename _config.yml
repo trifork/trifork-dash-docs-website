@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+theme: just-the-docs
+
+title: Trifork Befordring
+description: >
+  Website some indeholder dokumentation for brug af Trifork Befordring.
+lang: da-DK
+
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
