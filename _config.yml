@@ -4,6 +4,8 @@ title: Trifork Befordring
 description: >
   Website some indeholder dokumentation for brug af Trifork Befordring.
 lang: da-DK
+baseurl: "/trifork-dash-docs-website" 
+url: "https://trifork.github.io" 
 
 plugins:
   - jekyll-gist
