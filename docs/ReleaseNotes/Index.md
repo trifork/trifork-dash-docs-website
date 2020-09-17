@@ -4,6 +4,7 @@ title: Release Notes
 nav_order: 99
 has_children: true
 permalink: /releasenotes
+last_modified_date: '2020-09-17'
 ---
 
 # Release Notes
