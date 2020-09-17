@@ -2,6 +2,7 @@
 layout: default
 title: Administration
 nav_order: 5
+has_children: true
 parent: Kontrolpanelet
 grand_parent: Dokumentaion
 permalink: dokumentaion/kontrolpanelet/administration
