@@ -7,6 +7,6 @@ permalink: '/administration/borgersiden'
 last_modified_date: '2020-09-17'
 ---
 
-# Borger siden
+# Borgersiden
 
 Her vil du kunne læse dokumentation om borgersiden.
