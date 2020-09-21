@@ -4,8 +4,8 @@ title: Trifork Befordring
 description: >
   Website some indeholder dokumentation for brug af Trifork Befordring.
 lang: da-DK
-baseurl: "/trifork-dash-docs-website" 
-url: "https://trifork.github.io" 
+baseurl: "/" 
+url: "https://befordring.dash.trifork.com" 
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%e %b %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
