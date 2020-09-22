@@ -11,7 +11,7 @@ last_modified_date: '2020-09-22'
 # Breve
 
 Brevene bruges til at kunne sende ud til borgerne hvis de får et afslag, tilsagn eller en regulering.
-De skal være i formatet `.docx`.
+De skal være i formatet `.docx`(Word fil).
 
 Hvis der klikkes ind på et brev, og der uploades et nyt vil det gamle overskrives.
 
