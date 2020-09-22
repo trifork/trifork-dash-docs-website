@@ -18,7 +18,7 @@ last_modified_date: '2020-09-22'
 
 ![Ansøgningsliste](/assets/documentation/application-detail-select.png)
 
-## Ansøgnings detailje
+## Ansøgnings detalje
 
 Den gule markering er patientinformationer som indeholder alder, adresse, tekst, beskeder og historik.
 Den røde markering indeholder information om selve ansøgningen og de pågældende bookinger. I visse situationer kan der være flere bookinger på en ansøgning.
