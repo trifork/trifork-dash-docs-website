@@ -12,16 +12,16 @@ last_modified_date: '2020-09-22'
 
 Det er muligt at oprette en ny ansøgning, ved at benytte menupunktet ”Opret ny ansøgning”.
 
-Til at begynde med, skal der blot indtastes CPR-nummer for den patient der skal ansøges på vegne af.
+For at starte, skal der blot indtastes CPR-nummer for den patient der skal ansøges på vegne af.
 
-Når et korrekt CPR-nummer er indtastet, vil alt patientinformation blive fremvist. Under patienten er det muligt at se en liste af bookinger separeret på den eller de afsnit som bookingerne tilhører.
+Når et korrekt CPR-nummer er indtastet, vil alt patient information blive præsenteret. Under patienten er det muligt at se en liste af bookinger, separeret på den eller de afsnit som bookingerne tilhører.
 Det markerede grønne område er tekst som altid følger patienten uanset ansøgningen. Man kan tilføje/redigere/slette tekst ved at klikke på de små blå ikoner øverst til højre
 
 ![Patient info](/assets/documentation/create-manual-application-patien-info.png)
 
-Ved at klikke på navnet for et afsnit, vil man kunne se samtlige tilgængelige bookinger på det valgte afsnit. Denne liste er markeret med en grøn firkant på tegningen nedenfor. Ved at klikke på en af check Box-felterne kan man markere en eller flere bookinger der skal ansøges om befordring på vegne af.
+Ved at klikke på navnet for et afsnit, vil man kunne se samtlige tilgængelige bookinger på det valgte afsnit. Denne liste er markeret med en grøn firkant på tegningen nedenfor. Ved at klikke på en af check Box-felterne, kan man markere en eller flere bookinger der skal ansøges om befordring på vegne af.
 
-De svar der bliver givet under punktet ”Befordring svar” vil gælde for alle de valgte bookinger. Det er nemt at vælge svarende ved at benytte ”TAB ”-tasten på sit tastatur og vælge svarene med piletasterne på tastaturet:
+De svar der bliver givet under punktet ”Befordring svar” vil gælde for alle de valgte bookinger. Det er nemt at navigere imellem svarene ved at benytte ”TAB ”-tasten på sit tastatur og vælge svarene med piletasterne på tastaturet:
 
 ![Bookinger](/assets/documentation/create-manual-application-booking-drop-down.png)
 
