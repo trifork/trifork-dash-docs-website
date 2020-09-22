@@ -14,3 +14,5 @@ last_edit_time_format: "%e %b %Y" # uses ruby's time format: https://ruby-doc.or
 aux_links:
   "Trifork":
     - "//trifork.com"
+
+footer_content: Copyright &copy; 2020 Trifork A/S.
