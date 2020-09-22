@@ -4,7 +4,7 @@ title: Dokumentation
 nav_order: 2
 has_children: true
 description: "Alt dokumentation om Trifork Befordring samlet på et sted!"
-permalink: /dokumentaion
+permalink: /dokumentation
 last_modified_date: '2020-09-17'
 ---
 
