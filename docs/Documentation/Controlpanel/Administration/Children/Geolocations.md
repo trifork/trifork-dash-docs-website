@@ -4,7 +4,7 @@ title: Hospitals steder og farve
 nav_order: 6
 parent: Administration
 grand_parent: Kontrolpanelet
-permalink: dokumentaion/kontrolpanelet/administration/hospitalsstederogfarve
+permalink: dokumentation/kontrolpanelet/administration/hospitalsstederogfarve
 last_modified_date: '2020-09-17'
 ---
 
