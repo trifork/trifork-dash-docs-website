@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Trifork Befordring
 description: >
-  Website some indeholder dokumentation for brug af Trifork Befordring.
+  Website som indeholder dokumentation for brug af Trifork Befordring.
 lang: da-DK
 baseurl: "/" 
 url: "https://befordring.dash.trifork.com" 
