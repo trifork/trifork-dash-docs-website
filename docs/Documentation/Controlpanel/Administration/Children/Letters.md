@@ -10,4 +10,13 @@ last_modified_date: '2020-09-17'
 
 # Breve
 
-TODO
+Brevene bruges til at kunne sende ud til borgerne hvis de får et afslag, tilsagn eller en regulering.
+De skal være i formatet `.docx`.
+
+Hvis der klikkes ind på et brev, og der uploades et nyt vil det gamle overskrives.
+
+## Nøgleord
+
+Systemet vil kunne dynamisk indsætte forskellige flettefelter, baseret på nøgleord.
+For at indsætte det nyt nøgleord, skal du trykke på det grønne "plus".
+Herefter skal nøgle ordet indsættes, samt vælge type det er.
