@@ -18,4 +18,4 @@ Der kan søges efter ansøgninger på en specifik patient, ved at indtaste CPR-n
 
 ![Søge resultat](/assets/documentation/search-result.png)
 
-Det er også muligt at søge efter et specifikt ansøgnings id, ved at indtaste id'et efterfulgt af et #, dvs. #ANSØGNINGSID.
+Det er også muligt at søge efter et specifikt ansøgnings id, ved at indtaste id'et efterfulgt af et #, dvs. #2298.
