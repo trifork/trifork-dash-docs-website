@@ -11,7 +11,7 @@ last_modified_date: '2020-09-22'
 
 # Administration
 
-For at kunne se disse indstillingert skal du som minimum være administrator.
+For at få adgang til indstillingerne, skal brugeren som minimum være administrator.
 System administrator kan se flere funktionaliteter.
 
-Menu punkterne her under indeholder sider, som benyttes til at kunne konfigurere Trifork Befordring.
+Menu punkterne indeholder sider, som benyttes til at kunne konfigurere Trifork Befordring.
