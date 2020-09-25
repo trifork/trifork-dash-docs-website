@@ -5,7 +5,7 @@ nav_order: 6
 parent: Kontrolpanelet
 grand_parent: Dokumentation
 permalink: dokumentation/kontrolpanelet/support
-last_modified_date: '2020-09-22'
+last_modified_date: '2020-09-23'
 ---
 
 # Support
@@ -17,7 +17,7 @@ Dette bruges primært til at fejlsøge med.
 
 Når du skal søge i logs, skal du som minimum angive hvor mange logs af gangen du vil se. Jo flere logs, jo længere tid tager det at søge frem.
 
-**IND SÆTBILLEDE FRA SKÆRM**
+![Søge parametre](/assets/documentation/support-search-params.png)
 
 Du kan gøre søgningen mere præcis, ved at præcicere din søgning.
 
