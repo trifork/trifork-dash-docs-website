@@ -19,4 +19,4 @@ Der skal kun tilføjes dage som afviger fra normalen. Dvs at hvis trafikselvskab
 1. Tryk tilføj
 2. Skriv et sigende navn, fx "Kr. Himmelfartsdag 2020"
 3. Vælg en dato, fx 21 maj 2020
-4. Vælg den takst trafikselvskavet kører efter, fx "Søndag"
+4. Vælg den takst trafikselskabet kører efter, fx "Søndag"
