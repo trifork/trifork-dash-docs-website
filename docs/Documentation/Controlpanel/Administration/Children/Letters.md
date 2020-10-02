@@ -22,6 +22,9 @@ Når du skal definere et nyt brev, skal du starte med at vælge brevtype. Brevty
 * Vælg brevtypen **Betalt**, når du vil definere et Tilsagnsbrev
 * Vælg brevtypen **Afslag**, når du vil definere et Afslagsbrev
 * Vælg brevtypen **Korrektion**, når du vil definere et efterreguleringsbrev.
+Bemærk
+Afsendelse af Tilsagnsbreve og Efterreguleringsbrev forudsætter, at der er defineret et workflow for statussen Betalt (OnPaid)
+Afslagsbreve er til rådighed i Ansøgningsbilledet.
 
 ## Nøgleord
 
