@@ -19,9 +19,9 @@ Ved upload af et brev foretages der en validering af nøgleordene i brevet og de
 ## Brevtyper
 
 Når du skal definere et nyt brev, skal du starte med at vælge brevtype. Brevtypen har betydning for hvilke flettefelter, der er understøttet samt hvor systemet kan stille brevet til rådighed.
-Vælg brevtypen Betalt, når du vil definere et Tilsagnsbrev
-Vælg brevtypen Afslag, når du vil definere et Afslagsbrev
-Vælg brevtypen Korrektion, når du vil definere et efterreguleringsbrev.
+* Vælg brevtypen Betalt, når du vil definere et Tilsagnsbrev
+* Vælg brevtypen Afslag, når du vil definere et Afslagsbrev
+* Vælg brevtypen Korrektion, når du vil definere et efterreguleringsbrev.
 
 ## Nøgleord
 
