@@ -10,7 +10,9 @@ last_modified_date: '2020-09-23'
 
 # Pensionsgrænser
 
-Pensionsgræser bruges til at definere hvornår en patient er pensionist, da dette er forskelligt alt efter hvornår patienten er født.
+Pensionsgræser bruges til at definere, hvornår en ansøger er pensionist. Pensionsgrænsen afhænger af hvornår ansøgeren er født.
+
+Hvorvidt en ansøger om befordringstilskud er pensionist, har indflydelse på beregningen af udgiften til kørsel med offentlig transport.
 
 ## Opret pensionsgrænse
 
