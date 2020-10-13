@@ -10,11 +10,13 @@ last_modified_date: '2020-09-22'
 
 # Transporthelligdage
 
-I dette menu punkt skal der defineres hvilket helligdage der findes i regionen. Trafikselvskaberne har små afvigelser fra hinanden, så det kan derfor ikke standadiseres.
+Udregningen af prisen med offentlig transport afhænger blandt andet af om transporten er foretaget på en hverdag, en lørdag eller en søndag/helligdag. Det er det regionale trafikselskab, der fastsætter taksten, herunder helligdage, der falder på en hverdag. 
 
-Der skal kun tilføjes dage som afviger fra normalen. Dvs at hvis trafikselvskabet siger at Kr. Himmelfarts dag er en lørdag, skal denne tilføjes og hvis fredag den efterfølgende dag er normal, skal der ikke gøres noget for fredagen.
+I dette menupunkt skal taksten for helligdage, der falder på en hverdag defineres. 
 
-## Tilføj helligdag
+Det skal kun tilføjes dage som afviger fra normalen. Det er f.eks. nødvendigt at tilføje og definere Kr. Himmelfarts dag, hvis trafikselskabet afregner til søndagstakst.
+
+## Tilføj Transport-helligdag
 
 1. Tryk tilføj
 2. Skriv et sigende navn, fx "Kr. Himmelfartsdag 2020"
