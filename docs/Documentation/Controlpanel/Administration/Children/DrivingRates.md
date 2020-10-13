@@ -10,7 +10,7 @@ last_modified_date: '2020-09-22'
 
 # Kørselssatser
 
-Kørselssatser bruges til når patienten ansøges og der skal beregnes en pris for km-befordring.
+Her angives satsen, som danner grundlag for udregning af befordringsgodtgørelse for kørsel i egen bil.
 
 ## Opret kørselssats
 
