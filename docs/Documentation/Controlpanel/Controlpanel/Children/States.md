@@ -5,7 +5,6 @@ nav_order: 4
 parent: Kontrolpanel
 grand_parent: Kontrolpanelet
 permalink: dokumentation/kontrolpanelet/kontrolpanel/statuser
-last_modified_date: '2020-09-22'
 ---
 
 # Statuser

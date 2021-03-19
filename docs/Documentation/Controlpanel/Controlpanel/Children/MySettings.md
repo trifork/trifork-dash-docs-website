@@ -5,7 +5,6 @@ nav_order: 3
 parent: Kontrolpanel
 grand_parent: Kontrolpanelet
 permalink: dokumentation/kontrolpanelet/kontrolpanel/mineindstillinger
-last_modified_date: '2020-09-22'
 ---
 
 # Mine indstillinger

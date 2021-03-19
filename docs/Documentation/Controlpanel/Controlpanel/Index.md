@@ -6,7 +6,6 @@ has_children: true
 parent: Kontrolpanelet
 grand_parent: Dokumentation
 permalink: dokumentation/kontrolpanelet/kontrolpanel
-last_modified_date: '2020-09-22'
 ---
 
 # Kontrolpanel

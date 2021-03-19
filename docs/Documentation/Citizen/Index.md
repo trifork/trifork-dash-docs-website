@@ -4,7 +4,6 @@ title: Borgersiden
 nav_order: 2
 parent: Dokumentation
 permalink: '/dokumentation/borgersiden'
-last_modified_date: '2020-09-17'
 ---
 
 # Borgersiden
