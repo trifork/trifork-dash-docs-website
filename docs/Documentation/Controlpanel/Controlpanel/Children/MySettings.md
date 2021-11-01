@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mine indstillinger
-nav_order: 3
+nav_order: 4
 parent: Kontrolpanel
 grand_parent: Kontrolpanelet
 permalink: dokumentation/kontrolpanelet/kontrolpanel/mineindstillinger

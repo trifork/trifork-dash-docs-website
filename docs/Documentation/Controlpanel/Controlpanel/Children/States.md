@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statuser
-nav_order: 4
+nav_order: 5
 parent: Kontrolpanel
 grand_parent: Kontrolpanelet
 permalink: dokumentation/kontrolpanelet/kontrolpanel/statuser
