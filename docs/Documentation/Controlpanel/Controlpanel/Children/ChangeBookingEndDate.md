@@ -44,4 +44,4 @@ Her efter vil der åbne sig en dialog, hvor du kan trykke på "Slet".
 
 ![Patient info](/assets/documentation/booking_end_date_edit.png)
 
-OBS: Denne handling kan ikke fortrydes.
+**OBS: Denne handling kan ikke fortrydes.**
