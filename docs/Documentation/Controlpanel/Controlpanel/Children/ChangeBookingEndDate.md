@@ -7,7 +7,7 @@ grand_parent: Kontrolpanelet
 permalink: dokumentation/kontrolpanelet/kontrolpanel/aendrebookingslutdato
 ---
 
-# Opret ny ansøgning
+# Ændre slut dato på en booking
 
 (Dette er et tilkøb).
 
