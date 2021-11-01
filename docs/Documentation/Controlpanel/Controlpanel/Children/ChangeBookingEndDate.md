@@ -22,6 +22,7 @@ For at tilføje en slut dato, skal du åbne en ansøgning. Klik herefter på det
 
 Her efter vil der åbne sig en dialog, hvor du kan indsætte en dato.
 ![Patient info](/assets/documentation/booking_end_date_create_dialog.png)
+
 Tryk på "Tilføj".
 
 ## Ændre en slut dato
@@ -31,6 +32,7 @@ For at ændre en dato, klik på den blå ikon ved siden af slut datoen
 
 Her efter vil der åbne sig en dialog, hvor du kan ændre datoen, til den ønskede værdi.
 ![Patient info](/assets/documentation/booking_end_date_edit_editpng)
+
 Tryk på "Gem".
 
 ## Slet en slut dato
@@ -39,4 +41,7 @@ For at ændre en dato, klik på den blå ikon ved siden af slut datoen
 ![Patient info](/assets/documentation/booking_end_date_edit.png)
 
 Her efter vil der åbne sig en dialog, hvor du kan trykke på "Slet".
+
+![Patient info](/assets/documentation/booking_end_date_edit.png)
+
 OBS: Denne handling kan ikke fortrydes.
