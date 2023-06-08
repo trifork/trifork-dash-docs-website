@@ -35,6 +35,8 @@ permalink: /features
 | HospitalAddress                     |                       |                     | **X**                   |                    |
 | PendingWorkflows                    |                       |                     |                         |                    |
 | PendingLetters                      |                       |                     |                         |                    |
+| SectionValidDateInterval            |                       |                     |                         |                    |
+| ExportWorkflowGraph                 |                       |                     |                         |                    |
 
 ## Beskrivelse af system features
 
