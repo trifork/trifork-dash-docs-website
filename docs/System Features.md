@@ -26,7 +26,7 @@ permalink: /features
 | EnablePublicTransportType           | **X**                 |                     |                         |                    |
 | ProxyPensionApiEnabled              |                       |                     |                         |                    |
 | AddParentOrGuardianToApplication    | **X**                 |                     |                         |                    |  
-| ParentConsentFeature                |                       |                     |                         | **X**              |
+| ParentConsentFeature                | **X**                 |                     |                         | **X**              |
 | AuditLogs                           |                       |                     |                         | **X**              |
 | AlternativeListAndCount             | **X**                 |                     |                         | **X**              |
 | ErrorHandlingFrontEnd               | **X**                 |                     |                         |                    | 
