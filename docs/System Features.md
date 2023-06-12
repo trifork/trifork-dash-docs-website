@@ -30,13 +30,9 @@ permalink: /features
 | AuditLogs                           |                       |                     |                         | **X**              |
 | AlternativeListAndCount             | **X**                 |                     |                         | **X**              |
 | ErrorHandlingFrontEnd               | **X**                 |                     |                         |                    | 
-| SampleControlFeature                | **X**                 |                     |                         |                    | 
+| SampleControl                       | **X**                 |                     |                         |                    | 
 | ShowDeceasedStatus                  | **X**                 |                     |                         |                    |
 | HospitalAddress                     |                       |                     | **X**                   |                    |
-| PendingWorkflows                    |                       |                     |                         |                    |
-| PendingLetters                      |                       |                     |                         |                    |
-| SectionValidDateInterval            |                       |                     |                         |                    |
-| ExportWorkflowGraph                 |                       |                     |                         |                    |
 
 ## Beskrivelse af system features
 
