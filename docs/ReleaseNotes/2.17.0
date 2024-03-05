@@ -1,0 +1,24 @@
+---
+layout: default
+title: '2.17.0'
+nav_order: 2167
+parent: Release Notes
+permalink: '/releasenotes/2-17-7'
+---
+
+# 2.17.0
+{: .d-inline-block }
+
+Not Released
+{: .label .label-red }
+
+## Generelt
+- Patienttekst mærkat er nu tilbage på ansøgninger i status *Stikprøvekontrol*. [TS5-1815[(https://sd.trifork.com/browse/TS5-1815)
+  
+## Region Midtjylland
+
+## Region Nordjylland
+
+## Region Sjælland
+
+## Region Syddanmark
