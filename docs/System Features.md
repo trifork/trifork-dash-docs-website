@@ -33,6 +33,9 @@ permalink: /features
 | SampleControl                       | **X**                 |                     |                         |                    | 
 | ShowDeceasedStatus                  | **X**                 |                     |                         |                    |
 | HospitalAddress                     |                       |                     | **X**                   |                    |
+| UseRejseplansApiV2                  | **X**                 | **X**               | **X**                   | **X**              |
+| Driftsbanner (Ikke released)        |                       |                     |                         |                    |
+
 
 ## Beskrivelse af system features
 
