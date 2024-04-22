@@ -28,7 +28,7 @@ permalink: /features
 | AddParentOrGuardianToApplication    | **X**                 |                     |                         |                    |  
 | ParentConsentFeature                | **X**                 |                     |                         | **X**              |
 | AuditLogs                           |                       |                     |                         | **X**              |
-| AlternativeListAndCount             | **X**                 |                     |                         | **X**              |
+| AlternativeListAndCount             | **X**                 |                     | **X**                   | **X**              |
 | ErrorHandlingFrontEnd               | **X**                 |                     |                         |                    | 
 | SampleControl                       | **X**                 |                     |                         |                    | 
 | ShowDeceasedStatus                  | **X**                 |                     |                         |                    |
