@@ -19,8 +19,8 @@ permalink: /features
 | PublicTransportPricesForFreeChoice  | **X**                 | **X**               |                         | **X**              |
 | UseNemloginAuthentication           | **X**                 | **X**               | **X**                   | **X**              |
 | YearChangeVariables                 | **X**                 | **X**               | **X**                   | **X**              |
-| CitizenFileUpload                   | **X**                 |                     |                         |                    | 
-| CorrectBookingLocation              |                       | **X**               |                         |                    |
+| CitizenFileUpload                   | **X**                 | **X**               |                         |                    | 
+| CorrectBookingLocation              |                       |                     |                         |                    |
 | PersistSearchField                  | **X**                 | **X**               | **X**                   |                    |
 | TransportRefundApplicationNote      | **X**                 | **X**               |                         |                    |
 | EnablePublicTransportType           | **X**                 |                     |                         |                    |
