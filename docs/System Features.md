@@ -8,8 +8,8 @@ permalink: /features
 
 # Oversigt over features i Befordring by Trifork
 
-| Feature | Region Nordjylland | Region Midtjylland | Region Syddanmark | Region Sjælland |
-| :-----: | :-----------------: | :-----------------: | :---------------: | :-------------: |
+| Feature                                                                                           | Region Nordjylland    | Region Midtjylland   | Region Syddanmark        | Region Sjælland    |
+| :------------------------------------------------------------------------------------------------ | :--------------------:| :------------------: | :----------------------: | :-----------------:|
 | [AddVoucherPayment](#addvoucherpayment)                                                           | **X**                 |                      |                          |                    |
 | [AddParentOrGuardianToApplication](#addparentorguardiantoapplication)                             | **X**                 |                      |                          |                    |
 | [AlternativeListAndCount](#alternativelistandcount)                                               | **X**                 |                      |                          | **X**              |
