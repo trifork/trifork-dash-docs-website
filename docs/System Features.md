@@ -28,7 +28,7 @@ permalink: /features
 | [HospitalAddress](#hospitaladdress)                                                               |                       |                      | **X**                    |                    |
 | [InvalidateApplications](#invalidateapplications)                                                 | **X**                 | **X**                |                          |                    |
 | [NonRegional](#nonregional)                                                                       | **X**                 |                      |                          |                    |
-| [ParentConsentFeature](#parentconsentfeature)                                                     |                       |                      |                          |                    |
+| [ParentConsentFeature](#parentconsentfeature)                                                     |                       |                      |                          | **X**              |
 | [PendingLetters](#pendingletters)                                                                 |                       |                      |                          |                    |
 | [PendingWorkflows](#pendingworkflows)                                                             |                       |                      |                          |                    |
 | [PensionServiceEnabled](#pensionserviceenabled)                                                   |                       |                      |                          | **X**              |
