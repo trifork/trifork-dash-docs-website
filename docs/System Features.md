@@ -33,7 +33,7 @@ permalink: /features
 | [PendingWorkflows](#pendingworkflows)                                                             |                       |                      |                          |                    |
 | [PensionServiceEnabled](#pensionserviceenabled)                                                   |                       |                      |                          | **X**              |
 | [PersistSearchField](#persistsearchfield)                                                         | **X**                 | **X**                | **X**                    |                    |
-| [PublicTransportPricesForFreeChoice](#publictransportpricesforfreechoice)                         | **X**                 | **X**                | **X**                    | **X**              |
+| [PublicTransportPricesForFreeChoice](#publictransportpricesforfreechoice)                         | **X**                 | **X**                |                          | **X**              |
 | [SampleControl](#samplecontrol)                                                                   | **X**                 |                      |                          |                    |
 | [SectionValidDateInterval](#sectionvaliddateinterval)                                             |                       |                      |                          |                    |
 | [ShowDeceasedStatus](#showdeceasedstatus)                                                         | **X**                 |                      |                          |                    |
