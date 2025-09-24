@@ -13,18 +13,18 @@ permalink: /features
 | [AddVoucherPayment](#addvoucherpayment)                                                           | **X**                 |                      |                          |                    |
 | [AddParentOrGuardianToApplication](#addparentorguardiantoapplication)                             | **X**                 |                      |                          |                    |
 | [AlternativeListAndCount](#alternativelistandcount)                                               | **X**                 |                      |                          | **X**              |
-| [AuditLogs](#auditlogs)                                                                           |                       |                      |                          |                    |
+| [AuditLogs](#auditlogs)                                                                           |                       |                      |                          | **X**              |
 | [BookingRange](#bookingrange)                                                                     | **X**                 |                      |                          |                    |
 | [ChooseHighestRejseplanPriceByOccurrence](#choosehighestrejseplanpricebyoccurrence)               |                       | **X**                | **X**                    | **X**              |
 | [CitizenFileUpload](#citizenfileupload)                                                           | **X**                 | **X**                |                          |                    |
 | [CorrectBookingLocation](#correctbookinglocation)                                                 |                       |                      |                          |                    |
 | [DiagnoseCode](#diagnosecode)                                                                     | **X**                 |                      |                          |                    |
-| [EnablePublicTransportType](#enablepublictransporttype)                                           | **X**                 |                      |                          |                    |
+| [EnablePublicTransportType](#enablepublictransporttype)                                           | **X**                 |                      |                          | **X**              |
 | [ErrorHandlingFrontEnd](#errorhandlingfrontend)                                                   | **X**                 | **X**                | **X**                    | **X**              |
 | [ExportWorkflowGraph](#exportworkflowgraph)                                                       |                       |                      |                          |                    |
 | [ExtendedPatientGrantTypes](#extendedpatientgranttypes)                                           | **X**                 |                      |                          |                    |
 | [ExternalPdfConverterEnabled](#externalpdfconverterenabled)                                       |                       |                      |                          |                    |
-| [HearingApplications](#hearingapplications)                                                       | **X**                 |                      |                          |                    |
+| [HearingApplications](#hearingapplications)                                                       | **X**                 |                      |                          | **X**              |
 | [HospitalAddress](#hospitaladdress)                                                               |                       |                      | **X**                    |                    |
 | [InvalidateApplications](#invalidateapplications)                                                 | **X**                 | **X**                |                          |                    |
 | [NonRegional](#nonregional)                                                                       | **X**                 |                      |                          |                    |
@@ -32,7 +32,7 @@ permalink: /features
 | [PendingLetters](#pendingletters)                                                                 |                       |                      |                          |                    |
 | [PendingWorkflows](#pendingworkflows)                                                             |                       |                      |                          |                    |
 | [PensionServiceEnabled](#pensionserviceenabled)                                                   |                       |                      |                          | **X**              |
-| [PersistSearchField](#persistsearchfield)                                                         | **X**                 | **X**                | **X**                    |                    |
+| [PersistSearchField](#persistsearchfield)                                                         | **X**                 | **X**                | **X**                    | **X**              |
 | [PublicTransportPricesForFreeChoice](#publictransportpricesforfreechoice)                         | **X**                 | **X**                |                          | **X**              |
 | [SampleControl](#samplecontrol)                                                                   | **X**                 |                      |                          |                    |
 | [SectionValidDateInterval](#sectionvaliddateinterval)                                             |                       |                      |                          |                    |
